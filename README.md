@@ -1,2 +1,3 @@
 # hello-world
 Learning GitHub finally...
+Hello! I am Izy. I am currently a college student going for Game Development.
